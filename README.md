@@ -9,3 +9,7 @@
 官方视频库：http://yun.itheima.com/course/c135.html
 PS：上面这三个链接，指向的的是同一个学习资源。
 黑马的视频很新，可以找官方的QQ要配套的PPT和源码。
+
+
+Vue.js视频教程
+https://cn.vuejs.org/v2/guide/
